@@ -1,0 +1,23 @@
+@import "../../global.scss";
+
+.special_button {
+  background: linear-gradient(to right, $blue-color, $blue-color);
+  color: white;
+  border: none;
+  font-family: $heading-font-family;
+  padding: 0.8rem 2rem;
+  border-radius: 1.5rem;
+  font-weight: 700;
+  font-size: 0.9rem;
+  cursor: pointer;
+  min-width: 13rem;
+  z-index: 1;
+  span {
+    font-stretch: semi-expanded;
+    margin: 0;
+  }
+
+  &:hover {
+    background: linear-gradient(to right, $cyan-color, $blue-color);
+  }
+}

@@ -1,0 +1,45 @@
+@import "../../global.scss";
+
+.feature_container {
+  display: flex;
+  flex-direction: column;
+  //   gap: 2rem;
+  align-items: center;
+  z-index: 2;
+
+  .title {
+    font-family: $heading-font-family;
+    color: white;
+    font-size: 1.3rem;
+    margin-bottom: 0;
+  }
+
+  .description {
+    font-family: $body-font-family;
+    color: hsl(0, 0, 70%);
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+  }
+
+  .image {
+    height: 5rem;
+    width: auto;
+    margin-bottom: 1.5rem;
+  }
+
+  @media screen and (max-width: 600px) {
+    .title {
+      font-size: 1.1rem;
+    }
+
+    .description {
+      font-size: 0.8rem;
+      line-height: 1.2rem;
+    }
+
+    .image {
+      height: 4rem;
+      margin-bottom: 1rem;
+    }
+  }
+}

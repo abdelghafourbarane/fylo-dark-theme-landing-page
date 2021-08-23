@@ -1,0 +1,45 @@
+@import "../../global.scss";
+
+.header {
+  background-color: $intro-bg-color;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: $heading-font-family;
+  padding: 2rem $pd-desktop;
+  .links_list {
+    display: flex;
+    flex-direction: row;
+    gap: 4rem;
+    list-style: none;
+
+    .list_item {
+      a {
+        text-decoration: none;
+        color: hsl(0, 0, 85%);
+
+        &:hover {
+          color: white;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    padding: 1rem $pd-mobile;
+    .logo {
+      width: 6rem;
+    }
+
+    .links_list {
+      gap: 1rem;
+      align-items: center;
+      a {
+        font-size: 0.8rem;
+      }
+    }
+  }
+}
