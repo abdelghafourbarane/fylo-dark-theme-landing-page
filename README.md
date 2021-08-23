@@ -30,16 +30,18 @@ Users should be able to:
 ### Screenshot
 
 * Desktop version (width : 1440px)
+
 ![Desktop version](./screenshots/desktop_version.png)
 
-*Mobile version (width : 375px)
+* Mobile version (width : 375px)
+
 ![Mobile version](./screenshots/mobile_version.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd/hub/responsive-version-using-html5-css3-and-react-js-FmWLvmTLj)
+- Live Site URL: [Add live site URL here](https://baranefylodark.netlify.app/)
 
 ## My process
 
@@ -61,7 +63,7 @@ next js framework will be used in the future , so that the app server side rende
 
 - [stackoverflow](https://www.stackoverflow.com) - This helped me for bug fixing. 
 - [flaticon](https://www.flaticon.com) - This website provide useful icon in svg and png format , I used it to download the menu and close icon.
-- [css-tricks](https://www.css-tricks.com) - This website contains plenty of articles that let you understand more css concepts , I used it to know how to change the color of an svg image.
+
 
 ## Author
 
