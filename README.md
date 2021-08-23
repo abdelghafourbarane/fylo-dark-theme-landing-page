@@ -40,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd/hub/responsive-version-using-html5-css3-and-react-js-FmWLvmTLj)
-- Live Site URL: [Add live site URL here](https://baranefylodark.netlify.app/)
+- Solution URL: [Frontend Mentor solution url](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd/hub/responsive-version-using-html5-css3-and-react-js-FmWLvmTLj)
+- Live Site URL: [Demo url](https://baranefylodark.netlify.app/)
 
 ## My process
 
